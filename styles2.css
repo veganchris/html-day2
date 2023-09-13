@@ -1,0 +1,22 @@
+div {
+    margin: 5px;
+}
+
+h1 {
+    color: blue;
+}
+
+#third>span {
+    visibility: hidden;
+}
+#third p {
+    background-color: lightgray;
+} 
+img {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    color: red;
+}
